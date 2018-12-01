@@ -1,0 +1,56 @@
+FoodDAO
++ addUpdate
++ getById
++ getAll
++ remove
+
+
+PropertyDAO
++ addUpdate
++ getById
++ getAll
++ remove
+
+
+ContentDAO
++ addRemove
+- update
++ getById
++ getAll
++ remove
+
+
+UserDAO
++ addUpdate
++ getById
++ getByLogin
++ getAll
++ remove
+
+
+AddressDAO
++ addUpdate
++ getById
++ getByStreet
++ getByBuilding
++ getByApartment
++ getByUserId
++ getAll
++ remove
+
+
+ReserveDAO
++ addUpdate
++ getById
++ getOrderId
++ getAll
++ remove
+
+
+ClientOrder
++ addUpdate
++ getById
++ getAllByClientOrderId
++ getUserId
++ getAll
++ remove
